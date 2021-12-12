@@ -10,3 +10,9 @@
 * 2016314494 Wonjae Lee
 * 2019313897 Angel Fitri Sari
 
+## Presentation Video
+### Download link
+https://drive.google.com/file/d/14SZyrgVJXbi0p46y2U-eXSfmG3NMdBb6/view?usp=sharing
+
+### Youtube link
+https://youtu.be/g2MPRU9mS64
