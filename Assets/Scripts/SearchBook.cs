@@ -56,7 +56,6 @@ public class SearchBook : MonoBehaviour
         {
             Debug.Log(input.text);
             StartCoroutine(LoadData());
-            Debug.Log(pdfURL);
 
             input.text = "";
         }

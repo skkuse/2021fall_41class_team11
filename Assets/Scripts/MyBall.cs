@@ -5,7 +5,7 @@ using UnityEngine;
 public class MyBall : MonoBehaviour
 {
     Rigidbody rb;
-    float speed = 5;
+    float speed = 15;
     float lookSensitivity = 2;
     float cameraRotationLimit = 45;
     float currentCameraRotationX;
