@@ -1,0 +1,2 @@
+fontFile Symbol       "C:\Program Files (x86)\Adobe\Acrobat Reader DC\Resource\Font/s050000l.pfb"
+fontFile ZapfDingbats "C:\Program Files (x86)\Adobe\Acrobat Reader DC\Resource\Font/d050000l.pfb"
