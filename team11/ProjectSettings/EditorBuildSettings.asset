@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Book 1.unity
     guid: a5346ee7008374119ac9020eba29d9f6
+  - enabled: 1
+    path: Assets/Scenes/Memo.unity
+    guid: 4365a83a7674de44abef341fa14dd482
   m_configObjects: {}
